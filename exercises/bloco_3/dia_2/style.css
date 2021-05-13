@@ -1,0 +1,37 @@
+
+        h1{
+            font-size: 65px;
+            color: orange;
+            font-family: sans-serif;
+        }
+
+        p{
+            font-weight: 600;
+            font-size: 3em;
+        }
+
+        body{
+            font-size: 16px;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        ul{
+            line-height: 25px;
+        }
+
+        .bg-color{
+            background-color: palegreen;
+        }
+
+        #li1{
+            color: yellow;
+        }
+
+        #li2{
+            color: red;
+        }
+
+        #li3{
+            color: brown;
+        }
