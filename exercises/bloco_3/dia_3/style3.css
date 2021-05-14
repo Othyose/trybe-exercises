@@ -1,0 +1,29 @@
+
+h1, p {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.main-box ol li:hover{
+    color: #8234a1;
+}
+
+.sec-box li:hover{
+    color: #8234a1;
+}
+
+li :active {
+    font-family: monospace;
+}
+
+.main-box {
+    text-align: center;
+    border: 3px solid black;
+}
+.sec-box{
+    text-align: center;
+    border: 3px solid black;
+}
